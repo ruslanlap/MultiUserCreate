@@ -1,0 +1,4 @@
+user1 passwordforuser1 /home/yourlogin/.ssh/id_rsa.pub
+user2 passwordforuser2 /home/yourlogin/.ssh/id_rsa.pub
+user3 passwordforuser3 /home/yourlogin/.ssh/id_rsa.pub
+
