@@ -1,6 +1,6 @@
-# 🌟 UserGenius: Empowering System Administrators
+# 🚀 Multi-User Creation Script
 
-Welcome to UserGenius, the ultimate tool for system administrators to create multiple users effortlessly on Unix-based systems. With UserGenius, you can unleash your admin superpowers and set up user accounts in a flash!
+This script allows you to create multiple users on a Unix-based system using a simple text file. It's perfect for system administrators who need to set up multiple user accounts quickly and efficiently.
 
 ## 🚀 Features
 
