@@ -18,10 +18,11 @@ This script allows you to create multiple users on a Unix-based system using a s
     user3 password3 /path/to/ssh/key3
     ```
 
-2. Run the script with root privileges and `chmod +x multiusercreate`:
+2. Run the script with root privileges and make it executable:
 
     ```bash
-    sudo bash multiusercreate
+    sudo chmod +x multiusercreate
+    sudo ./multiusercreate
     ```
 
 3. The script will create the users and set up their SSH keys. If a user already exists or the SSH key file is missing, the script will skip to the next line.
@@ -31,4 +32,3 @@ This script allows you to create multiple users on a Unix-based system using a s
 Please ensure that the `user.txt` file is accurate and the SSH key files exist at the specified paths. The script needs to be run with root privileges to create users and set up SSH keys.
 
 Enjoy your new user accounts! 🎉
-
