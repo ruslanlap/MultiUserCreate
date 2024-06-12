@@ -1,4 +1,3 @@
-user1 passwordforuser1 /home/yourlogin/.ssh/id_rsa.pub
-user2 passwordforuser2 /home/yourlogin/.ssh/id_rsa.pub
-user3 passwordforuser3 /home/yourlogin/.ssh/id_rsa.pub
-
+user1 1 /home/ubuntu/.ssh/id_rsa.pub
+user2 2 /home/ubuntu/.ssh/id_rsa.pub
+user3 3 /home/ubuntu/.ssh/id_rsa.pub
