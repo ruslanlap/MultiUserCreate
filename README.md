@@ -2,7 +2,7 @@
 
 This script allows you to create multiple users on a Unix-based system using a simple text file. It's perfect for system administrators who need to set up multiple user accounts quickly and efficiently.
 
-## 🚀 Features
+## 🚀OMGFeatures
 
 - **👥 Batch User Creation**: Say goodbye to repetitive user creation tasks. UserGenius allows you to create multiple users in one go, saving you time and effort.
 - **🔑 SSH Key Magic**: UserGenius automagically handles SSH key setup for each user. No more manual configuration needed.
